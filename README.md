@@ -1,2 +1,2 @@
 # Animal-Inheritance-
-To demonstrate knowledge of class inheritance
+To demonstrate knowledge of inheritance
